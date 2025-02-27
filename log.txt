@@ -1,0 +1,8 @@
+cae1861 Добавил status.txt
+0671585 Create README.md
+03c5e05 Delete README.md
+a340d11 Delete Добавил README.md
+d24a9e8 Update Добавил README.md
+8766d83 Create Добавил README.md
+30e2977 Update README.md
+7001312 Create README.md
